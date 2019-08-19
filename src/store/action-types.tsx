@@ -1,0 +1,6 @@
+export const INCREMENT = 'INCREMENT'
+export const DECREMENT = 'DECREMENT'
+
+export const SET_CATEGORY = 'SET_CATEGORY'
+
+export const SET_HOME_SLIDERS = 'SET_HOME_SLIDERS'

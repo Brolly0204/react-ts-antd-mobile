@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "outDir": "./dist",
+    "sourceMap": true,
+    "target": "ESNEXT",
+    "module": "ESNext",
+    "moduleResolution": "node",
+    "jsx": "react"
+  },
+  "allowSyntheticDefaultImports": "true",
+  "experimentalDecorators": "true",
+  "include": [
+    "./src/**/*"
+  ]
+}
